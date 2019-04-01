@@ -4,3 +4,4 @@
 
 ## Weekly
 每周 Serverless 相关动态汇报
+[周报](weekly)
