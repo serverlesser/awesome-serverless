@@ -4,3 +4,6 @@
 
 ## Weekly
 每周 Serverless 相关动态汇报 [Serverless 周报](weekly)
+
+## Related articles
+* [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
