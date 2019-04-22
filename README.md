@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [Weekly](/weekly)
-* [Related articles](#Related-articles)
+* [Related articles](/articles)
 
 ## Weekly
 每周 Serverless 相关动态汇报 [Serverless 周报](weekly)
