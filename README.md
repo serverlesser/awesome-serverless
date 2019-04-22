@@ -2,7 +2,7 @@
 本站创建并维护 Serverless 资料清单供大家交流学习。
 
 ## Table of contents
-* [Weekly](/Weekly)
+* [Weekly](/weekly)
 * [Related articles](#Related-articles)
 
 ## Weekly
